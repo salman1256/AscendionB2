@@ -1,0 +1,7 @@
+D:\Ascendion-B2\Day-1\OurFirstConApp\OurFirstConApp\bin\Debug\OurFirstConApp.exe.config
+D:\Ascendion-B2\Day-1\OurFirstConApp\OurFirstConApp\bin\Debug\OurFirstConApp.exe
+D:\Ascendion-B2\Day-1\OurFirstConApp\OurFirstConApp\bin\Debug\OurFirstConApp.pdb
+D:\Ascendion-B2\Day-1\OurFirstConApp\OurFirstConApp\obj\Debug\OurFirstConApp.csproj.AssemblyReference.cache
+D:\Ascendion-B2\Day-1\OurFirstConApp\OurFirstConApp\obj\Debug\OurFirstConApp.csproj.CoreCompileInputs.cache
+D:\Ascendion-B2\Day-1\OurFirstConApp\OurFirstConApp\obj\Debug\OurFirstConApp.exe
+D:\Ascendion-B2\Day-1\OurFirstConApp\OurFirstConApp\obj\Debug\OurFirstConApp.pdb

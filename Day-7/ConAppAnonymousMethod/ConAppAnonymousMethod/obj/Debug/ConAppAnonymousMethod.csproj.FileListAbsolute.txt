@@ -1,0 +1,7 @@
+D:\Ascendion-B2\Day-7\ConAppAnonymousMethod\ConAppAnonymousMethod\bin\Debug\ConAppAnonymousMethod.exe.config
+D:\Ascendion-B2\Day-7\ConAppAnonymousMethod\ConAppAnonymousMethod\bin\Debug\ConAppAnonymousMethod.exe
+D:\Ascendion-B2\Day-7\ConAppAnonymousMethod\ConAppAnonymousMethod\bin\Debug\ConAppAnonymousMethod.pdb
+D:\Ascendion-B2\Day-7\ConAppAnonymousMethod\ConAppAnonymousMethod\obj\Debug\ConAppAnonymousMethod.csproj.AssemblyReference.cache
+D:\Ascendion-B2\Day-7\ConAppAnonymousMethod\ConAppAnonymousMethod\obj\Debug\ConAppAnonymousMethod.csproj.CoreCompileInputs.cache
+D:\Ascendion-B2\Day-7\ConAppAnonymousMethod\ConAppAnonymousMethod\obj\Debug\ConAppAnonymousMethod.exe
+D:\Ascendion-B2\Day-7\ConAppAnonymousMethod\ConAppAnonymousMethod\obj\Debug\ConAppAnonymousMethod.pdb

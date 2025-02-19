@@ -1,0 +1,7 @@
+D:\Ascendion-B2\Day-7\ConAppLinqEx2\ConAppLinqEx2\bin\Debug\ConAppLinqEx2.exe.config
+D:\Ascendion-B2\Day-7\ConAppLinqEx2\ConAppLinqEx2\bin\Debug\ConAppLinqEx2.exe
+D:\Ascendion-B2\Day-7\ConAppLinqEx2\ConAppLinqEx2\bin\Debug\ConAppLinqEx2.pdb
+D:\Ascendion-B2\Day-7\ConAppLinqEx2\ConAppLinqEx2\obj\Debug\ConAppLinqEx2.csproj.AssemblyReference.cache
+D:\Ascendion-B2\Day-7\ConAppLinqEx2\ConAppLinqEx2\obj\Debug\ConAppLinqEx2.csproj.CoreCompileInputs.cache
+D:\Ascendion-B2\Day-7\ConAppLinqEx2\ConAppLinqEx2\obj\Debug\ConAppLinqEx2.exe
+D:\Ascendion-B2\Day-7\ConAppLinqEx2\ConAppLinqEx2\obj\Debug\ConAppLinqEx2.pdb

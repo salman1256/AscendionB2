@@ -1,0 +1,7 @@
+D:\Ascendion-B2\Day-6\ConAppInterfaceBankingSystem\ConAppInterfaceBankingSystem\bin\Debug\ConAppInterfaceBankingSystem.exe.config
+D:\Ascendion-B2\Day-6\ConAppInterfaceBankingSystem\ConAppInterfaceBankingSystem\bin\Debug\ConAppInterfaceBankingSystem.exe
+D:\Ascendion-B2\Day-6\ConAppInterfaceBankingSystem\ConAppInterfaceBankingSystem\bin\Debug\ConAppInterfaceBankingSystem.pdb
+D:\Ascendion-B2\Day-6\ConAppInterfaceBankingSystem\ConAppInterfaceBankingSystem\obj\Debug\ConAppInterfaceBankingSystem.csproj.AssemblyReference.cache
+D:\Ascendion-B2\Day-6\ConAppInterfaceBankingSystem\ConAppInterfaceBankingSystem\obj\Debug\ConAppInterfaceBankingSystem.csproj.CoreCompileInputs.cache
+D:\Ascendion-B2\Day-6\ConAppInterfaceBankingSystem\ConAppInterfaceBankingSystem\obj\Debug\ConAppInterfaceBankingSystem.exe
+D:\Ascendion-B2\Day-6\ConAppInterfaceBankingSystem\ConAppInterfaceBankingSystem\obj\Debug\ConAppInterfaceBankingSystem.pdb

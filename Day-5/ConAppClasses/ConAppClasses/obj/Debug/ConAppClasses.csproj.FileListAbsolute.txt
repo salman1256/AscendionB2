@@ -1,0 +1,7 @@
+D:\Ascendion-B2\Day-5\ConAppClasses\ConAppClasses\bin\Debug\ConAppClasses.exe.config
+D:\Ascendion-B2\Day-5\ConAppClasses\ConAppClasses\bin\Debug\ConAppClasses.exe
+D:\Ascendion-B2\Day-5\ConAppClasses\ConAppClasses\bin\Debug\ConAppClasses.pdb
+D:\Ascendion-B2\Day-5\ConAppClasses\ConAppClasses\obj\Debug\ConAppClasses.csproj.AssemblyReference.cache
+D:\Ascendion-B2\Day-5\ConAppClasses\ConAppClasses\obj\Debug\ConAppClasses.csproj.CoreCompileInputs.cache
+D:\Ascendion-B2\Day-5\ConAppClasses\ConAppClasses\obj\Debug\ConAppClasses.exe
+D:\Ascendion-B2\Day-5\ConAppClasses\ConAppClasses\obj\Debug\ConAppClasses.pdb

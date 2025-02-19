@@ -1,0 +1,7 @@
+D:\Ascendion-B2\Day-7\ConAppLinqExamples\ConAppLinqExamples\bin\Debug\ConAppLinqExamples.exe.config
+D:\Ascendion-B2\Day-7\ConAppLinqExamples\ConAppLinqExamples\bin\Debug\ConAppLinqExamples.exe
+D:\Ascendion-B2\Day-7\ConAppLinqExamples\ConAppLinqExamples\bin\Debug\ConAppLinqExamples.pdb
+D:\Ascendion-B2\Day-7\ConAppLinqExamples\ConAppLinqExamples\obj\Debug\ConAppLinqExamples.csproj.AssemblyReference.cache
+D:\Ascendion-B2\Day-7\ConAppLinqExamples\ConAppLinqExamples\obj\Debug\ConAppLinqExamples.csproj.CoreCompileInputs.cache
+D:\Ascendion-B2\Day-7\ConAppLinqExamples\ConAppLinqExamples\obj\Debug\ConAppLinqExamples.exe
+D:\Ascendion-B2\Day-7\ConAppLinqExamples\ConAppLinqExamples\obj\Debug\ConAppLinqExamples.pdb

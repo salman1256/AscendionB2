@@ -1,0 +1,7 @@
+D:\Ascendion-B2\Day-7\ConAppEventExample\ConAppEventExample\bin\Debug\ConAppEventExample.exe.config
+D:\Ascendion-B2\Day-7\ConAppEventExample\ConAppEventExample\bin\Debug\ConAppEventExample.exe
+D:\Ascendion-B2\Day-7\ConAppEventExample\ConAppEventExample\bin\Debug\ConAppEventExample.pdb
+D:\Ascendion-B2\Day-7\ConAppEventExample\ConAppEventExample\obj\Debug\ConAppEventExample.csproj.AssemblyReference.cache
+D:\Ascendion-B2\Day-7\ConAppEventExample\ConAppEventExample\obj\Debug\ConAppEventExample.csproj.CoreCompileInputs.cache
+D:\Ascendion-B2\Day-7\ConAppEventExample\ConAppEventExample\obj\Debug\ConAppEventExample.exe
+D:\Ascendion-B2\Day-7\ConAppEventExample\ConAppEventExample\obj\Debug\ConAppEventExample.pdb

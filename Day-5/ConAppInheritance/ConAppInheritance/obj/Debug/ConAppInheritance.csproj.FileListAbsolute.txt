@@ -1,0 +1,7 @@
+D:\Ascendion-B2\Day-5\ConAppInheritance\ConAppInheritance\bin\Debug\ConAppInheritance.exe.config
+D:\Ascendion-B2\Day-5\ConAppInheritance\ConAppInheritance\bin\Debug\ConAppInheritance.exe
+D:\Ascendion-B2\Day-5\ConAppInheritance\ConAppInheritance\bin\Debug\ConAppInheritance.pdb
+D:\Ascendion-B2\Day-5\ConAppInheritance\ConAppInheritance\obj\Debug\ConAppInheritance.csproj.AssemblyReference.cache
+D:\Ascendion-B2\Day-5\ConAppInheritance\ConAppInheritance\obj\Debug\ConAppInheritance.csproj.CoreCompileInputs.cache
+D:\Ascendion-B2\Day-5\ConAppInheritance\ConAppInheritance\obj\Debug\ConAppInheritance.exe
+D:\Ascendion-B2\Day-5\ConAppInheritance\ConAppInheritance\obj\Debug\ConAppInheritance.pdb

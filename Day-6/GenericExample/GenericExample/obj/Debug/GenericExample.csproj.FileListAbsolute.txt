@@ -1,0 +1,7 @@
+D:\Ascendion-B2\Day-6\GenericExample\GenericExample\bin\Debug\GenericExample.exe.config
+D:\Ascendion-B2\Day-6\GenericExample\GenericExample\bin\Debug\GenericExample.exe
+D:\Ascendion-B2\Day-6\GenericExample\GenericExample\bin\Debug\GenericExample.pdb
+D:\Ascendion-B2\Day-6\GenericExample\GenericExample\obj\Debug\GenericExample.csproj.AssemblyReference.cache
+D:\Ascendion-B2\Day-6\GenericExample\GenericExample\obj\Debug\GenericExample.csproj.CoreCompileInputs.cache
+D:\Ascendion-B2\Day-6\GenericExample\GenericExample\obj\Debug\GenericExample.exe
+D:\Ascendion-B2\Day-6\GenericExample\GenericExample\obj\Debug\GenericExample.pdb

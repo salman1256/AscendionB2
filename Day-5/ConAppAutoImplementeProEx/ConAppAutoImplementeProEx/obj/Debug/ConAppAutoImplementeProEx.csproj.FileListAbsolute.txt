@@ -1,0 +1,7 @@
+D:\Ascendion-B2\Day-5\ConAppAutoImplementeProEx\ConAppAutoImplementeProEx\bin\Debug\ConAppAutoImplementeProEx.exe.config
+D:\Ascendion-B2\Day-5\ConAppAutoImplementeProEx\ConAppAutoImplementeProEx\bin\Debug\ConAppAutoImplementeProEx.exe
+D:\Ascendion-B2\Day-5\ConAppAutoImplementeProEx\ConAppAutoImplementeProEx\bin\Debug\ConAppAutoImplementeProEx.pdb
+D:\Ascendion-B2\Day-5\ConAppAutoImplementeProEx\ConAppAutoImplementeProEx\obj\Debug\ConAppAutoImplementeProEx.csproj.AssemblyReference.cache
+D:\Ascendion-B2\Day-5\ConAppAutoImplementeProEx\ConAppAutoImplementeProEx\obj\Debug\ConAppAutoImplementeProEx.csproj.CoreCompileInputs.cache
+D:\Ascendion-B2\Day-5\ConAppAutoImplementeProEx\ConAppAutoImplementeProEx\obj\Debug\ConAppAutoImplementeProEx.exe
+D:\Ascendion-B2\Day-5\ConAppAutoImplementeProEx\ConAppAutoImplementeProEx\obj\Debug\ConAppAutoImplementeProEx.pdb

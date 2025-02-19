@@ -1,0 +1,7 @@
+D:\Ascendion-B2\Day-6\ConAppGenCollection\ConAppGenCollection\bin\Debug\ConAppGenCollection.exe.config
+D:\Ascendion-B2\Day-6\ConAppGenCollection\ConAppGenCollection\bin\Debug\ConAppGenCollection.exe
+D:\Ascendion-B2\Day-6\ConAppGenCollection\ConAppGenCollection\bin\Debug\ConAppGenCollection.pdb
+D:\Ascendion-B2\Day-6\ConAppGenCollection\ConAppGenCollection\obj\Debug\ConAppGenCollection.csproj.AssemblyReference.cache
+D:\Ascendion-B2\Day-6\ConAppGenCollection\ConAppGenCollection\obj\Debug\ConAppGenCollection.csproj.CoreCompileInputs.cache
+D:\Ascendion-B2\Day-6\ConAppGenCollection\ConAppGenCollection\obj\Debug\ConAppGenCollection.exe
+D:\Ascendion-B2\Day-6\ConAppGenCollection\ConAppGenCollection\obj\Debug\ConAppGenCollection.pdb

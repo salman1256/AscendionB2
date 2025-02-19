@@ -1,0 +1,12 @@
+D:\Ascendion-B2\Day-8\ConAppEfDbFirst\ConAppEfDbFirst\bin\Debug\ConAppEfDbFirst.exe.config
+D:\Ascendion-B2\Day-8\ConAppEfDbFirst\ConAppEfDbFirst\bin\Debug\ConAppEfDbFirst.exe
+D:\Ascendion-B2\Day-8\ConAppEfDbFirst\ConAppEfDbFirst\bin\Debug\ConAppEfDbFirst.pdb
+D:\Ascendion-B2\Day-8\ConAppEfDbFirst\ConAppEfDbFirst\bin\Debug\EntityFramework.dll
+D:\Ascendion-B2\Day-8\ConAppEfDbFirst\ConAppEfDbFirst\bin\Debug\EntityFramework.SqlServer.dll
+D:\Ascendion-B2\Day-8\ConAppEfDbFirst\ConAppEfDbFirst\bin\Debug\EntityFramework.xml
+D:\Ascendion-B2\Day-8\ConAppEfDbFirst\ConAppEfDbFirst\bin\Debug\EntityFramework.SqlServer.xml
+D:\Ascendion-B2\Day-8\ConAppEfDbFirst\ConAppEfDbFirst\obj\Debug\ConAppEfDbFirst.csproj.AssemblyReference.cache
+D:\Ascendion-B2\Day-8\ConAppEfDbFirst\ConAppEfDbFirst\obj\Debug\ConAppEfDbFirst.csproj.CoreCompileInputs.cache
+D:\Ascendion-B2\Day-8\ConAppEfDbFirst\ConAppEfDbFirst\obj\Debug\ConAppEfDbFirst.csproj.CopyComplete
+D:\Ascendion-B2\Day-8\ConAppEfDbFirst\ConAppEfDbFirst\obj\Debug\ConAppEfDbFirst.exe
+D:\Ascendion-B2\Day-8\ConAppEfDbFirst\ConAppEfDbFirst\obj\Debug\ConAppEfDbFirst.pdb

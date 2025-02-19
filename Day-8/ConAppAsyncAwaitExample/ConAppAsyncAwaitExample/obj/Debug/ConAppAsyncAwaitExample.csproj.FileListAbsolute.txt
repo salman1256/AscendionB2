@@ -1,0 +1,7 @@
+D:\Ascendion-B2\Day-8\ConAppAsyncAwaitExample\ConAppAsyncAwaitExample\bin\Debug\ConAppAsyncAwaitExample.exe.config
+D:\Ascendion-B2\Day-8\ConAppAsyncAwaitExample\ConAppAsyncAwaitExample\bin\Debug\ConAppAsyncAwaitExample.exe
+D:\Ascendion-B2\Day-8\ConAppAsyncAwaitExample\ConAppAsyncAwaitExample\bin\Debug\ConAppAsyncAwaitExample.pdb
+D:\Ascendion-B2\Day-8\ConAppAsyncAwaitExample\ConAppAsyncAwaitExample\obj\Debug\ConAppAsyncAwaitExample.csproj.AssemblyReference.cache
+D:\Ascendion-B2\Day-8\ConAppAsyncAwaitExample\ConAppAsyncAwaitExample\obj\Debug\ConAppAsyncAwaitExample.csproj.CoreCompileInputs.cache
+D:\Ascendion-B2\Day-8\ConAppAsyncAwaitExample\ConAppAsyncAwaitExample\obj\Debug\ConAppAsyncAwaitExample.exe
+D:\Ascendion-B2\Day-8\ConAppAsyncAwaitExample\ConAppAsyncAwaitExample\obj\Debug\ConAppAsyncAwaitExample.pdb
